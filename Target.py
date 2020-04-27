@@ -4,8 +4,8 @@
         
         #############################################
         #                                           #
-        #    Facebook BruteForce, by lovehacker     #
-        #    WhatsApp Contact:       03094161457    #
+        #    FaceBook TargetShot, by Arbab Memon    #
+        #    WhatsApp Contact:       03003023263    #
         #                                           #
         #############################################
 
@@ -35,7 +35,7 @@ time.sleep(0.8)
 print '\n\nCracking '+user+' Now...'
 
 time.sleep(1)
-print '\n###############BlackMafia LoveHacker##############\n'
+print '\n##############√ArbabMemon TargetAttack√#############\n'
 for password in wordlist:
     if password == '' or password == ' ':
         pass
