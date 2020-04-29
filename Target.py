@@ -6,7 +6,7 @@
         #                                           #
         #    FaceBook TargetShot, by Arbab Memon    #
         #    WhatsApp Contact:       03003023263    #
-        #                                           #
+        #    Attack Direct Shooot Of Facebook       #
         #############################################
 
 
